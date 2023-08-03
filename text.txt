@@ -1,6 +1,1 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jmxESAo1i28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
-http://12.1.1.1:8082/T-Sports/tracks-v1a1/mono.m3u8?token=4476d5dffb206855bdcc2ce51f62b720c4114de3-c27348d4961c9c7c44c4e9949cdb1d06-1691052290-1691041490
-http://12.1.1.1:8082/T-Sports/tracks-v1a1/mono.m3u8?token=9fdb24873aaa5a7572c0219fd83292ecc810633a-b89f9dd4aeb97519105b597b6b3dc5a6-1691004741-1690993941
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gRmVmkhTy_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
