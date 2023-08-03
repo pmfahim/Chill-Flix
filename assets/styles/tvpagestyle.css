@@ -1,0 +1,174 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../Images/brac.jpg);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #575757;
+    color: #1c1c1c;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.logo img {
+    max-height: 50px;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    margin-left: 20px;
+}
+
+.menu li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.menu-section {
+    padding: 20px;
+}
+
+.menu-items li {
+    margin-bottom: 20px;
+}
+
+.item-name {
+    font-weight: bold;
+}
+
+.item-price {
+    float: right;
+    font-weight: bold;
+}
+
+.item-description {
+    margin-top: 5px;
+}
+
+.videos{
+  margin-left: 200px;
+  margin-top: 50px;
+  margin-right: 100px;
+}
+
+@media screen and (max-width: 700px)
+{
+  .videos{
+    margin-left: -0px;
+    margin-top: 50px;
+    
+  }
+}
+@media screen and (max-width: 900px)
+{
+  .videos{
+    margin-left: 50px;
+    margin-top: 50px;
+    
+  }
+}
+@media screen and (max-width: 500px)
+{
+  .videos{
+    margin-left: -10px;
+    margin-top: 50px;
+    
+  }
+}
+
+
+
+.footer_top{
+    margin-top: 100px;
+}
+
+
+footer {
+    background-color: #f0f0f0;
+    padding: 20px;
+
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .footer-left {
+    flex: 1;
+  }
+  
+  .footer-right {
+    flex: 1;
+    text-align: right;
+  }
+  
+  .footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-links li {
+    display: inline-block;
+    margin-right: 15px;
+  }
+  
+  .footer-links li:last-child {
+    margin-right: 0;
+  }
+
+  .footer-links li a{
+    text-decoration: none;
+    color: #1c1c1c;
+  }
+  
+  .social-icons {
+    margin-top: 10px;
+  }
+  
+  .icon {
+    color: #333;
+    font-size: 18px;
+    margin-right: 10px;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid #ccc;
+  }
+  .footer-bottom a{
+    text-decoration: none;
+    color: red;
+    font-size: medium;
+  }
+  
+  
